@@ -1,0 +1,6 @@
+@SecureFileStorage_HostAddress = http://localhost:5178
+
+GET {{SecureFileStorage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
